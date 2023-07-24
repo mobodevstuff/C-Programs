@@ -1,0 +1,28 @@
+# Ignore all files and folders that start with a dot
+*.
+
+# Ignore all temporary files
+**/.DS_Store
+**/Thumbs.db
+**/*.tmp
+**/*.swp
+
+# Ignore all build output
+**/bin
+**/obj
+**/.vs
+
+# Ignore all Visual Studio temporary files
+**/ipch
+**/.vscode/
+
+# Ignore all C-specific files
+*.o
+*.obj
+*.d
+*.ilk
+*.pdb
+*.exe
+*.so
+*.dll
+*.a
